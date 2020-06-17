@@ -1,0 +1,7 @@
+{
+  id: meeting.id,
+  time: meeting.time,
+  agenda: meeting.agenda,
+  location: meeting.location,
+  speakers: meeting.speaker_names
+}

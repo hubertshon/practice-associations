@@ -1,0 +1,3 @@
+@meeting.map do |meeting|
+  render partial: "meeting.json.jb", locals: { meeting: meeting } 
+end

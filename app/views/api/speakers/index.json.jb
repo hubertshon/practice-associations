@@ -1,0 +1,3 @@
+@speaker.map do |speaker|
+  render partial: "speaker.json.jb", locals: { speaker: speaker } 
+end

@@ -1,0 +1,9 @@
+{
+  first_name: speaker.first_name,
+  last_name: speaker.last_name,
+  email: speaker.email,
+  meeting_titles: speaker.meeting_titles,
+  meetings: speaker.meetings
+
+
+}
